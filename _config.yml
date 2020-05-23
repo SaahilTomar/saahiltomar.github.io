@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Saahil Tomar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/background.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "Chennai, TN"
   email            : "saahil.tomar@gmail.com"
