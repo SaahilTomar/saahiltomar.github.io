@@ -5,6 +5,7 @@ tags: [machine-learning]
 header:
   image: "/images/background.jpg"
 excerpt: "Machine Learning"  
+mathjax: "true"
 ---
 
 #HI
