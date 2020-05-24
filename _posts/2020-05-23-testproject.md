@@ -8,11 +8,11 @@ excerpt: "Machine Learning"
 mathjax: "true"
 ---
 
-#HI
+# HI
 
-##HELLO
+## HELLO
 
-###HEY
+### HEY
 
 afgagahah
 
@@ -23,6 +23,6 @@ afgagahah
 [link](http://github.com/SaahilTomar)
 
 
-'''python
+''' python
 	print("Hello")
 '''
