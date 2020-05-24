@@ -23,6 +23,6 @@ afgagahah
 [link](http://github.com/SaahilTomar)
 
 
-''' python
+``` python
 	print("Hello")
-'''
+```
